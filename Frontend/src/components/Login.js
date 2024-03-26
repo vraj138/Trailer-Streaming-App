@@ -1,5 +1,5 @@
-import React, {useState} from 'react'
-import Header from './Header'
+import React, {useState} from 'react';
+import Header from './Header';
 import axios from "axios";
 import { API_END_POINT } from '../configs/constant';
 import toast from 'react-hot-toast';
